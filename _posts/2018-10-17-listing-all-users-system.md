@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Updating tor leads to keys, and ansible, and editors"
+title: "Listing all users on a system"
 date: 2018-10-18 13:15
 ---
 
