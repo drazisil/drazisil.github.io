@@ -1,7 +1,8 @@
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-name: Drazisil
+title: Drazisil.com
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
 paginate: 5
+theme: minima
+paginate_path: '/blog/page:num/'
