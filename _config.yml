@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
 name: Drazisil
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
