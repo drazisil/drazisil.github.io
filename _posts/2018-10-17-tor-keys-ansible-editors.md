@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Updating tor leads to keys, and ansible, and editors"
-date: 2018-10-18
+date: 2018-10-18 12:57
 ---
 
 Good Timezone!
